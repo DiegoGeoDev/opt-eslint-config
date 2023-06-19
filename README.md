@@ -5,9 +5,9 @@
 1. Install the dependencies
 
 ```batch
-npm i -D eslint @opt/opt-eslint-config
+npm i -D eslint @diegogeodev/opt-eslint-config
 REM or
-yarn add -D eslint @opt/opt-eslint-config
+yarn add -D eslint @diegogeodev/opt-eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
@@ -16,7 +16,7 @@ yarn add -D eslint @opt/opt-eslint-config
 
 ```json
 {
-  "extends": "@opt/opt-eslint-config/react"
+  "extends": "@diegogeodev/opt-eslint-config/react"
 }
 ```
 
@@ -24,6 +24,6 @@ yarn add -D eslint @opt/opt-eslint-config
 
 ```json
 {
-  "extends": "@opt/opt-eslint-config/node"
+  "extends": "@diegogeodev/opt-eslint-config/node"
 }
 ```

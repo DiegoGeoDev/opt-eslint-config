@@ -1,5 +1,5 @@
 {
-  "name": "@opt/opt-eslint-config",
+  "name": "@diegogeodev/opt-eslint-config",
   "version": "1.0.0",
   "private": false,
   "description": "OPT ESLint configuration.",

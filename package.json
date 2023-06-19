@@ -1,6 +1,6 @@
 {
-  "name": "@diegogeodev/opt-eslint-config",
-  "version": "1.0.1",
+  "name": "@diegogeodev/eslint-config",
+  "version": "1.0.0",
   "private": false,
   "description": "OPT ESLint configuration.",
   "main": "index.js",
